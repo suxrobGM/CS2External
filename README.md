@@ -2,7 +2,7 @@
 
 ## Description
 
-CS2External it is a fork of [FullyExternalCS2](https://github.com/sweeperxz/FullyExternalCS2) with some improvements and new features.
+CS2External is a fork of [FullyExternalCS2](https://github.com/sweeperxz/FullyExternalCS2) with some improvements and new features.
 It is a an external cheat for Counter-Strike 2 that reads memory and interacts with the game process externally without injecting any code into the game process or modifying the game in any way.
 
 > [!IMPORTANT]
