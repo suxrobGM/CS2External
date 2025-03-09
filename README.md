@@ -72,7 +72,7 @@ dotnet run
 
 ### Alternative: Precompiled Binaries
 
-You can also download the precompiled binaries from the [Releases](https://github.com/sweepsuxrobgmerxz/CS2External/releases) page without downloading .NET SDK and building the project.
+You can also download the precompiled binaries from the [Releases](https://github.com/suxrobgm/CS2External/releases) page without downloading .NET SDK and building the project.
 
 ### Help
 
